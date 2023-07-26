@@ -13,8 +13,6 @@ __pycache__/
 */__pycache__/
 */*/__pycache__/
 */*/*/__pycache__/
-*.py[cod]
-*/*.py[cod]
 */*/*.py[cod]
 */*/*/*.py[cod]
 
@@ -37,7 +35,6 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-*.pyc
 *.pyo
 *.pyd
 
@@ -73,7 +70,6 @@ docs/_build/
 target/
 
 # Virtual environment
-.env/
 .venv/
 venv/
 
